@@ -17,7 +17,7 @@ $mysql_db = "CSPhish";
 # Mail Configurations
 $mail_host = "smtp.gmail.com";
 $mail_user = "";
-$mail_password = 'hen';
+$mail_password = '---';
 $mail_from = "service@intl.paypal.com";
 $mail_replyTo = "service@intl.paypal.com";
 // show debug messages between mail server and client?
