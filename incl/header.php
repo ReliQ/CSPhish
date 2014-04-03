@@ -1,7 +1,7 @@
 <?php	
 /**
  *	CSPhish
- *	A Computer Science assignment.
+ *	A Computer Security assignment.
  *
  * 	@author Patrick Reid
  * 	@link http://www.reliqartz.com
