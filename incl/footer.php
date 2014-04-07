@@ -9,7 +9,7 @@
 ?>
 
 <footer>
-		<span>CSPhish &copy; <?php echo date('Y'); ?></span>
+		<span>CSPhish &copy; <?php echo date('Y'); ?> Patrick Reid, Brandon Franklyn, Ashani Kentish</span>
 	</footer>
 </body>
 </html>
