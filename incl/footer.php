@@ -1,5 +1,5 @@
 <?php	
-/**
+/** 
  *	CSPhish
  *	A Computer Security assignment.
  *

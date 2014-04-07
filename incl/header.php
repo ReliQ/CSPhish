@@ -1,5 +1,5 @@
 <?php	
-/**
+/** 
  *	CSPhish
  *	A Computer Security assignment.
  *
@@ -27,9 +27,10 @@
 		li.success {color: #337733;}
 		section#in {}
 		.actions, .intro {padding: 5px 10px;}
+		.doc-dl {color: #0431B4; float: right; font-size: .9em; vertical-align: middle; text-decoration: none;}
+			.doc-dl img {height: 30px; width: 30px; position: relative; top: 10px;}
 		.intro {background: rgba(255,255,255,.34);}
 			.intro p {line-height: 1.5; text-align: justify;}
-
 	</style>
 </head>
 <body>

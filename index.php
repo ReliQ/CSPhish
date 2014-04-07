@@ -32,6 +32,11 @@
 				<p>
 					View the bogus "reset password" page.
 				</p></li>
+			<li>
+				<a class="act" href="./defend.php">Learn how to defend against Phishing attacks</a>
+				<p>
+					View a list of several techniques to lessen your chances of becoming a Phishing victim.
+				</p></li>
 		</ul>
 	</div>
 </section>
